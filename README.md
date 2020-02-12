@@ -11,7 +11,7 @@ example for crossword5 and dictionary KnuthWords
 
 ```exemain Crossword5.txt -dict KnuthWords.txt -draw```
 
-### About algorithm
+### About the algorithm
 The program reads the words from the given dictionary and classifies the words into a 4-dimensional table based on  
 1st First word length  
 2nd Position of the letter  
